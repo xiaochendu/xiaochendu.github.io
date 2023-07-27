@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first-year PhD student with the [Chemical Engineering](https://cheme.mit.edu) department and the [Center for Computational Science and Engineering](https://cse.mit.edu) at the Massachusetts Institute of Technology. I seek to combine informatics, machine learning, and automation to accelerate chemistry and materials research. Ultimately, I aim to address challenges in energy, sustainability, and climate change. I am supported by a [NSF Graduate Research Fellowship](https://nsfgrfp.org).
+Hello, I'm a third-year PhD student at MIT, affiliated with the [Chemical Engineering](https://cheme.mit.edu) department and the [Center for Computational Science and Engineering](https://cse.mit.edu). Under the guidance of my advisors, [Rafael Gómez-Bombarelli](http://gomezbombarelli.mit.edu) and [Martin Bazant](https://bazantgroup.mit.edu), I'm combining machine learning with computational techniques to advance materials modelling.
 
-Before MIT, I double majored in computer science and chemistry at Duke University. There, I did computational research across the disciplines of chemistry, biochemistry, and materials science.
+My main focus is on surface reconstruction of metal oxides, with an aim to improve catalysis and electrochemistry. Ultimately, I want my work to contribute to solutions in energy, sustainability, and climate change. I'm grateful for the support of my [NSF Graduate Research Fellowship](https://nsfgrfp.org) in this endeavor.
 
-Outside of science and tech, I am interested in photography, calligraphy, and the ocassional hike.
+Before MIT, I studied both computer science and chemistry at Duke University and delved into interdisciplinary computational research.
+
+Away from the lab and books, I enjoy photography, playing badminton, and the occasional hike—it's these interests that keep me balanced amidst my rigorous academic pursuits.
