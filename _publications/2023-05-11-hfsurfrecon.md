@@ -1,4 +1,20 @@
 ---
+title: "Beam image-shift accelerated data acquisition for near-atomic resolution single-particle cryo-electron tomography"
+collection: publications
+permalink: /publication/2021-03-30-bisect
+excerpt: 'Tomographic reconstructions of cryopreserved specimens enable in-situ structural studies. Here, the authors present the beam image-shift electron cryo-tomography (BISECT) approach that accelerates data collection speed and improves the map resolution compared to earlier approaches and present the in vitro structure of a 300 kDa protein complex that was solved at 3.6 Å resolution as a test case.'
+date: 2021-03-30
+venue: 'Nature Communications'
+paperurl: 'https://doi.org/10.1038/s41467-021-22251-8'
+citation: 'Bouvette, J.*, Liu, H.*, <b>Du, X.</b>, Zhou, Y., Sikkema, A.P., Mello, J.F.R., Klemm, B.P., Huang, R., Schaaper, R.M., Borgnia, M.J. & Bartesaghi, A. (2021). &quot;Beam image-shift accelerated data acquisition for near-atomic resolution single-particle cryo-electron tomography.&quot; <i>Nat. Commun.</i>, 12(1957).'
+---
+Tomographic reconstructions of cryopreserved specimens enable in-situ structural studies. Here, the authors present the beam image-shift electron cryo-tomography (BISECT) approach that accelerates data collection speed and improves the map resolution compared to earlier approaches and present the in vitro structure of a 300 kDa protein complex that was solved at 3.6 Å resolution as a test case.
+
+[Download paper here](/files/bisect.pdf)
+
+Recommended citation: Bouvette, J.\*, Liu, H.\*, <b>Du, X.</b>, Zhou, Y., Sikkema, A.P., Mello, J.F.R., Klemm, B.P., Huang, R., Schaaper, R.M., Borgnia, M.J. & Bartesaghi, A. (2021). "Beam image-shift accelerated data acquisition for near-atomic resolution single-particle cryo-electron tomography." <i>Nat. Commun.</i>, 12, 1957.
+
+<!-- ---
 title: "Machine-learning-accelerated simulations enable heuristic-free surface reconstruction"
 collection: publications
 permalink: /publication/2023-05-12-hfsurfrecon
@@ -12,4 +28,4 @@ Understanding material surfaces and interfaces is vital in applications like cat
 
 [Download paper here](/files/bisect.pdf)
 
-Recommended citation: <b>Du, X.</b>, Damewood, J.K., Lunger, J.R., Millan, R., Yildiz, B., Li, L., \& G\'omez-Bombarelli, R. (2023). "Machine-learning-accelerated simulations enable heuristic-free surface reconstruction." arxiv:2305.07251
+Recommended citation: <b>Du, X.</b>, Damewood, J.K., Lunger, J.R., Millan, R., Yildiz, B., Li, L., \& G\'omez-Bombarelli, R. (2023). "Machine-learning-accelerated simulations enable heuristic-free surface reconstruction." arxiv:2305.07251 -->
