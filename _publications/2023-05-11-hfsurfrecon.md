@@ -1,5 +1,5 @@
 ---
-title: "Machine-learning-accelerated simulations enable heuristic-free surface reconstruction"
+title: "Beam image-shift accelerated data acquisition for near-atomic resolution single-particle cryo-electron tomography"
 collection: publications
 permalink: /publication/2023-05-12-hfsurfrecon
 excerpt: 'Tomographic reconstructions of cryopreserved specimens enable in-situ structural studies. Here, the authors present the beam image-shift electron cryo-tomography (BISECT) approach that accelerates data collection speed and improves the map resolution compared to earlier approaches and present the in vitro structure of a 300 kDa protein complex that was solved at 3.6 Å resolution as a test case.'
